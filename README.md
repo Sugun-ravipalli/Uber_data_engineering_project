@@ -5,7 +5,7 @@ The objective of this project is to conduct data analytics on Uber datasets, emp
 ## Architecture:
 ![DE Project architecture](https://github.com/Sugun-ravipalli/Uber_data_engineering_project/assets/145236879/fac26788-d086-4ce2-9d8a-5203501aab19)
 
-##Technologies Used:
+## Technologies Used:
 •	Programming Language - Python
 Google Cloud Platform
 •	Google Storage
