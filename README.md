@@ -19,8 +19,7 @@ The TLC trip records for both yellow and green taxis encompass details such as t
 
 More info about dataset can be found here:
 
-Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
-
+Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page .
 Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
 ## Data Model:
